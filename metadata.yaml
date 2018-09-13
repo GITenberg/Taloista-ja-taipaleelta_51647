@@ -1,0 +1,31 @@
+_repo: Taloista-ja-taipaleelta_51647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornborg, Karl Henrik
+    alias: Sarvela, Heikki
+    birthdate: 1853
+    deathdate: 1921
+    gutenberg_agent_id: '46507'
+    url: http://www.gutenberg.org/2009/agents/46507
+description: ''
+gutenberg_issued: '2016-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51647'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 19th century'
+- GITenberg
+tableOfContents: Puron sulho -- Jatalampi -- Nuotalla -- Jouluenkeli -- Karhun kynsissä
+  -- Rahaa lainaamassa -- Asioitsija -- Marivainaja -- Talon piruja -- Rahankaavoja
+  -- Onnen turkki -- Karsikko -- Kaksi onnellista -- Hänen puheensa -- Enkeli ja piru
+  -- Oma kuvani -- Ahven -- Punanen lippu -- Elämän avain -- Meren joulu -- Heräämiseni
+  -- Milloinka Rooma perustettiin? -- Testamentti -- Onnen saari.
+title: Taloista ja taipaleelta
+url: http://www.gutenberg.org/ebooks/51647
